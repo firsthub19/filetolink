@@ -23,33 +23,33 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above."
+          "description": "filetolink"
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "22410413"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "5be39e316e3647868c1b651b318c1077"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "6467268869:AAGl8GlUXtFaOwDtJMlXukXjMdggSW3OFmU"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "-1002061878778"
           
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
+          "mongodb+srv://firsthub19:jVOieMrRbJtBhyHQ@ftp-egest.gekopua.mongodb.net/?retryWrites=true&w=majority&appName=ftp-egest"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID  like 1234509"
+          "description": "835828486"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
           "required": false
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  adarsh."
+          "description": "fsoliveira"
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
@@ -84,7 +84,7 @@
       },
       "name": {
           "description": " Session Name for Bot [ Add adarsh-goel]",
-          "value": "File-To-Link",
+          "value": "filetolink",
           "required": false
       }
   },
