@@ -1,5 +1,5 @@
 {
-  "name": "FILE-TO-LINK",
+  "name": "archfile",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web.",
   "keywords": [
       "telegram",
@@ -23,7 +23,7 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "filetolink"
+          "description": "archfile"
       },
       "API_ID": {
           "description": "22410413"
@@ -84,7 +84,7 @@
       },
       "name": {
           "description": " Session Name for Bot [ Add adarsh-goel]",
-          "value": "filetolink",
+          "value": "archfile",
           "required": false
       }
   },
